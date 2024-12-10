@@ -112,41 +112,41 @@ h2 {
         <h3>Amazon</h3>
         <h4>Job Title: Software Engineer</h4>
         <p>Description: Responsible for developing and maintaining web applications.</p>
-        <a href="http://localhost:1006/addresume" class="register-button">Register</a>
+        <a href="https://precious-reflection-production.up.railway.app/addresume" class="register-button">Register</a>
 
     </div>
     <div class="company-box">
         <h3>Flipkart</h3>
         <h4>Job Title: Data Analyst</h4>
         <p>Description: Analyze data trends and provide actionable insights.</p>
-        <a href="http://localhost:1006/addresume" class="register-button">Register</a>
+        <a href="https://precious-reflection-production.up.railway.app/addresume" class="register-button">Register</a>
 
     </div>
     <div class="company-box">
         <h3>Google</h3>
         <h4>Job Title: Product Manager</h4>
         <p>Description: Oversee product development from conception to launch.</p>
-        <a href="http://localhost:1006/addresume" class="register-button">Register</a>
+        <a href="https://precious-reflection-production.up.railway.app/addresume" class="register-button">Register</a>
 
     </div>
     <div class="company-box">
         <h3>JetBrains</h3>
         <h4>Job Title: UX Designer</h4>
         <p>Description: Design user interfaces and enhance user experience.</p>
-        <a href="http://localhost:1006/addresume" class="register-button">Register</a>
+        <a href="https://precious-reflection-production.up.railway.app/addresume" class="register-button">Register</a>
 
     </div>
     <div class="company-box">
         <h3>Zomato</h3>
         <h4>Job Title: Marketing Specialist</h4>
         <p>Description: Develop marketing strategies to promote products and services.</p>
-        <a href="http://localhost:1006/addresume" class="register-button">Register</a>
+        <a href="https://precious-reflection-production.up.railway.app/addresume" class="register-button">Register</a>
     </div>
     <div class="company-box">
         <h3>Ola</h3>
         <h4>Job Title: Network Engineer</h4>
         <p>Description: Maintain and troubleshoot network infrastructure.</p>
-        <a href="http://localhost:1006/addresume" class="register-button">Register</a>
+        <a href="https://precious-reflection-production.up.railway.app/addresume" class="register-button">Register</a>
 
     </div>
 </div>
